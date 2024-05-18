@@ -49,7 +49,7 @@ To get started with the game, clone this repository and open it in Unity. Ensure
 
 ## Contributors
 
-- [Gilad Meir]
+- Gilad Meir
 
 ## License
 Sprites have been taken from Google.
