@@ -1,0 +1,1 @@
+public class SC_ButtomWorldLimit: SC_ConcreteDeadPlatform { }
