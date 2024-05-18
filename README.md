@@ -49,11 +49,12 @@ To get started with the game, clone this repository and open it in Unity. Ensure
 
 ## Contributors
 
-- [Your Name]
+- [Gilad Meir]
 
 ## License
+Sprites have been taken from Google.
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it according to your needs.
+Feel free to use and modify it according to your needs.
 
 For more details on each component and how they contribute to the game, please refer to the respective folders and scripts in the repository.
 
